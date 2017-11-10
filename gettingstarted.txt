@@ -1,2 +1,6 @@
 Hello, let's get started
-Conflicting change here
+
+
+
+
+Here some other stuff
